@@ -1,0 +1,4 @@
+flask
+requests
+flask-sijax
+flask-bootstrap
